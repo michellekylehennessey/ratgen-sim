@@ -1,13 +1,51 @@
-# Python
+# Python cache
 __pycache__/
 *.py[cod]
-*.egg-info/
+
+# Virtual environments
 .venv/
-.env
+venv/
+env/
+ENV/
 
-# PyCharm
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDEs and Editors
 .idea/
+*.iml
+.vscode/
 
-# OS
+# OS-specific
 .DS_Store
 Thumbs.db
+ehthumbs.db
