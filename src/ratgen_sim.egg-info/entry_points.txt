@@ -1,0 +1,2 @@
+[console_scripts]
+ratgen = ratgen.cli:main

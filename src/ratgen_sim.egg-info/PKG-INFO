@@ -1,0 +1,31 @@
+Metadata-Version: 2.4
+Name: ratgen-sim
+Version: 0.1.0
+Summary: Rat coat color genetics simulator (Agouti & Pink-eyed dilution)
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: click
+
+# ratgen-sim 🐀
+Rat coat color genetics simulator with Punnett squares, phenotype probabilities, and litter simulation.  
+Educational tool built in Python for breeders, students, and biology enthusiasts.
+
+---
+
+## ✨ Features
+- Computes Punnett squares for **Agouti (A/a)** and **Pink-eyed dilution (P/p)**
+- Returns genotype and phenotype probabilities
+- Simulates litters of any size
+- Optional probability bar chart (matplotlib)
+- Easy-to-use CLI
+
+---
+
+## 📦 Installation
+Clone the repo and install in editable mode:
+```bash
+git clone https://github.com/YOURUSERNAME/ratgen-sim.git
+cd ratgen-sim
+pip install -e .

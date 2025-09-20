@@ -1,0 +1,11 @@
+[project]
+name = "ratgen-sim"
+version = "0.1.0"
+description = "Rat coat color genetics simulator (Agouti & Pink-eyed dilution)"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = ["pandas", "matplotlib", "click"]
+
+[project.scripts]
+ratgen = "ratgen.cli:main"
+
