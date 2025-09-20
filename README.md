@@ -5,7 +5,7 @@ Educational tool built in Python for breeders, students, and biology enthusiasts
 ---
 
 ## Features
-- Computes Punnett squares for **Agouti (A/a)** and **Pink-eyed dilution (P/p)**
+- This model computes Punnett squares for **Agouti (A/a)** and **Pink-eyed dilution (P/p)**
 - Returns genotype and phenotype probabilities
 - Simulates litters of any size
 - Optional probability bar chart (matplotlib)
