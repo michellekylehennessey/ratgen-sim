@@ -4,7 +4,7 @@ Educational tool built in Python for breeders, students, and biology enthusiasts
 
 ---
 
-## ✨ Features
+## Features
 - Computes Punnett squares for **Agouti (A/a)** and **Pink-eyed dilution (P/p)**
 - Returns genotype and phenotype probabilities
 - Simulates litters of any size
@@ -13,7 +13,7 @@ Educational tool built in Python for breeders, students, and biology enthusiasts
 
 ---
 
-## 📦 Installation
+##  Installation
 Clone the repo and install in editable mode:
 ```bash
 git clone https://github.com/YOURUSERNAME/ratgen-sim.git
